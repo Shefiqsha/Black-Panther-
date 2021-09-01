@@ -1,11 +1,13 @@
 
 <div align="center">
-  <img border-radius: 45px src="https://imgur.com/QP2veze.jpeg" width="700" height="700"/>
+  <img border-radius: 55px src="https://imgur.com/QP2veze.jpeg" width="700" height="700"/>
   <p align="center">
-<a href="#"><img title="Sophia" src="https://img.shields.io/badge/Black Panther-white?colorA=%23ff0000&colorB=%23017e710&style=for-the-badge"></a>
+<a href="#"><img title="Black Panther" src="https://img.shields.io/badge/Black Panther-white?colorA=%23ff0000&colorB=%23017e710&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Hisham-Muhammed/Sophia?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Shefiq-kp/Black Panther? 
+  
+  ?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
