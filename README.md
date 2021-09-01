@@ -22,7 +22,7 @@ Project created by <a href="https://youtube.com/c/ICHUTECH">shefiq</a> to make i
 
   <p align="center">
   <a href="httsp://github.com/ichu-s/sophia">
-    <img src="https://img.shields.io/github/repo-size/ichu-s/sophia?color=green&label=Repo%20total%20size&style=flat-square">
+    <img src="https://img.shields.io/github/repo-size/ichu-s/sophia?color=yellow&label=Repo%20total%20size&style=flat-square">
 <p align="center">
 <a href="https://github.com/Hisham-muhammed/followers"><img title="Followers" src="https://img.shields.io/github/followers/Hisham-muhammed?color=blue&style=flat-square"></a>
 <a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Hisham-muhammed/sophia?color=blue&style=flat-square"></a>
