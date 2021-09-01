@@ -120,7 +120,7 @@ Click WA logo to Join Support Group 👇
 
 <div align="center">
 
-<img src="https://i.imgur.com/QP2veze.jpeg" />
+<img src="https://i.imgur.com/vYVZMMn.jpg" />
 
   </div>
 
