@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 55px src="https://i.imgur.com/cXkcNsR.gifv" width="700" height="700"/>
+  <img border-radius: 55px src="https://i.imgur.com/vYVZMMn.jpg" width="700" height="700"/>
   <p align="center">
 <a href="#"><img title="Black Panther" src="https://img.shields.io/badge/Black Panther-white?colorA=%23ff0000&colorB=%23017e710&style=for-the-badge"></a>
 </p>
