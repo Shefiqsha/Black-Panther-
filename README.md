@@ -7,7 +7,7 @@
   <p align="center">
 <a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Shefiq-kp/Black Panther? 
   
-  ?color=blue&style=for-the-badge&logo=whatsapp"></a>
+  ?color=blue&style=for-the-badge&logo=instagram"></a>
 </p>
 </div>
 <p align="center">
