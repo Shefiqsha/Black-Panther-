@@ -258,7 +258,7 @@ Click WA logo to Join Support Group 👇
 
 <div align="center">
 
-<img src="https://imgur.com/a/z0Z1Pyi" />
+<img src="https://imgur.com/a/z0Z1Pyi.jpg" />
 
   </div>
 
